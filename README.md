@@ -4,19 +4,19 @@
 
 Feature Summary: Joint Savings Account Smart Contract
 
-A smart contract to automate hosting joint savings account.  Automate the creation of joint savings account using Solidity smart contract that accepts two user addresses. These addresses are able to control a joint savings account. The smart contract will use ether management functions to provide the features of the joint savings account. The features consist of the ability to deposit and withdraw funds from the account
+A smart contract to automate hosting joint savings account.  Automating the creation of joint savings account using Solidity smart contract that accepts two user addresses.  The smart contract uses ether management functions to provide the features of the joint savings account. The features consist of the ability to deposit and withdraw funds from the account.
 
 - Includes the following tasks:
 
-    - Create a Joint Savings Account Contract in Solidity
-    - Compile and Deploy The Contract in the JavaScript VM
-    - Interact with the Deployed Smart Contract
+    - Creates a Joint Savings Account Contract in Solidity
+    - Compiles and Deploys The Contract in the JavaScript VM
+    - Interacts with the Deployed Smart Contract
 
 ---
 
 ## Technologies
 
-THis projects leverages the Remix IDE which is an open source application for developing, deploying, and administering smart contracts that run in Ethereum-based blockchains. Used this IDE for the entire development cycle of the smart contract. 
+This projects leverages the Remix IDE which is an open source application for developing, deploying, and administering smart contracts that run in Ethereum-based blockchains. 
 </br></br>
 [Remix IDE](https://remix.ethereum.org/) The Native IDE for Web3 Development.
 
